@@ -1,0 +1,15 @@
+h1 {
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+/* NAVBAR */
+.brankName {
+    font-size: 32px;
+}
+
+/* ID SELECTORS */
+#mainPage {
+    width: 80%;
+    margin: auto;
+}
